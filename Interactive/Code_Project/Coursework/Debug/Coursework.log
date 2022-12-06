@@ -1,0 +1,9 @@
+﻿  Coursework.cpp
+F:\GithubRoot\Coursework\Coursework\loadimage.h(1,1): warning C4103: 包括标题后更改了对齐方式，可能是由于缺少 #pragma pack(pop)
+F:\GithubRoot\Coursework\Coursework\Coursework.cpp(14,1): warning C4103: 包括标题后更改了对齐方式，可能是由于缺少 #pragma pack(pop)
+F:\GithubRoot\Coursework\Coursework\Coursework.cpp(307,96): warning C4305: “初始化”: 从“double”到“float”截断
+F:\GithubRoot\Coursework\Coursework\Coursework.cpp(443,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\GithubRoot\Coursework\Coursework\Coursework.cpp(445,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\GithubRoot\Coursework\Coursework\Coursework.cpp(457,41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\GithubRoot\Coursework\Coursework\Coursework.cpp(457,20): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Coursework.vcxproj -> F:\GithubRoot\Coursework\Debug\Coursework.exe
